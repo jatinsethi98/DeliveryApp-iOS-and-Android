@@ -1,0 +1,10 @@
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/build.props
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/adb.props
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/DeliveryPersonApp.Android.csprojAssemblyReference.cache
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/_VerifyXamarinAndroidSupportVersions.stamp
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/res.flag
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/R.txt
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/R.cs.flag
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/Debug/DeliveryPersonApp.Android.csproj.CoreCompileInputs.cache

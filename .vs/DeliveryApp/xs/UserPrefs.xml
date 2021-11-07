@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DB95B320-5215-4A43-92F4-4651DF24078D}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeliveryPersonApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BB01B008-D19C-4C25-8A75-B87B771BDFC6" />
+  <MonoDevelop.Ide.ItemProperties.DeliveryPersonApp.Android AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeliveryApp/Model/Delivery.cs">
+    <Files>
+      <File FileName="DeliveryApp/Model/AzureHelper.cs" Line="9" Column="56" />
+      <File FileName="DeliveryApp/Model/Delivery.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeliveryApp" expanded="True">
+            <Node name="DeliveryApp" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="Delivery.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="DeliveryApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DeliveryApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA2F10C8-0DCA-4CC9-B398-A381F0E9F32C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DeliveryApp.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

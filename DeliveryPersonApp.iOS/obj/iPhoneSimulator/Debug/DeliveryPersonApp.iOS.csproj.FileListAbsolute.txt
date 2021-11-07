@@ -1,0 +1,50 @@
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.csprojAssemblyReference.cache
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.exe.config
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.csproj.CoreCompileInputs.cache
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.exe.config
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.exe
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.pdb
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/DeliveryApp.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/DeliveryApp.pdb
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/DeliveryApp.dll.config
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Validation.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.xml
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.csproj.CopyComplete
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.exe
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/DeliveryPersonApp.iOS.pdb
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/actool/_PartialAppManifest.items
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/actool/_BundleResourceWithLogicalName.items
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/coremlc/_PartialAppManifest.items
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Delivered.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Delivered@2x.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Delivered@3x.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Deliveries.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Deliveries@2x.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Deliveries@3x.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Profile.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Profile@2x.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Profile@3x.png
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/Entitlements.plist
+/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.0/optimized/

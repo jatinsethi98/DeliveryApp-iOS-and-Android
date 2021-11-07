@@ -1,0 +1,57 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2020-10-22 17:11:32.886033-0700 DeliveryApp.iOS[49978:6402036] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=49978
+2020-10-22 17:11:32.886469-0700 DeliveryApp.iOS[49978:6402036] SecTaskCopyDebugDescription: DeliveryApp.iOS[49978]/0#-1 LF=0
+2020-10-22 17:11:32.896538-0700 DeliveryApp.iOS[49978:6402036] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=49978
+2020-10-22 17:11:32.897071-0700 DeliveryApp.iOS[49978:6402036] SecTaskCopyDebugDescription: DeliveryApp.iOS[49978]/0#-1 LF=0
+2020-10-22 17:11:34.308063-0700 DeliveryApp.iOS[49978:6402036] [unspecified] container_system_group_path_for_identifier: error = ((container_error_t)98) NOT_CODESIGNED
+2020-10-22 17:11:34.308212-0700 DeliveryApp.iOS[49978:6402036] [MC] Error getting system group container for systemgroup.com.apple.configurationprofiles: 98
+2020-10-22 17:11:34.308447-0700 DeliveryApp.iOS[49978:6402036] [MC] Failed to get profile system group container path. Overriding with expected path: /Users/jatinsethi/Library/Developer/CoreSimulator/Devices/BB01B008-D19C-4C25-8A75-B87B771BDFC6/data/Containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles
+2020-10-22 17:11:43.026826-0700 DeliveryApp.iOS[49978:6402036] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=49978
+2020-10-22 17:11:43.027096-0700 DeliveryApp.iOS[49978:6402036] SecTaskCopyDebugDescription: DeliveryApp.iOS[49978]/0#-1 LF=0
+2020-10-22 17:11:43.634055-0700 DeliveryApp.iOS[49978:6402036] [Presentation] Presenting view controller <UIAlertController: 0x7ff23bb39a00> from detached view controller <ViewController: 0x7ff239d0de80> is discouraged.
+2020-10-22 17:11:45.676176-0700 DeliveryApp.iOS[49978:6403214] [MKCoreLocationProvider] CLLocationManager(<CLLocationManager: 0x6000007c0000>) for <MKCoreLocationProvider: 0x600003755cb0> did fail with error: Error Domain=kCLErrorDomain Code=0 "(null)"
+2020-10-22 17:12:41.680219-0700 DeliveryApp.iOS[49978:6404945] [MKCoreLocationProvider] CLLocationManager(<CLLocationManager: 0x6000007c0000>) for <MKCoreLocationProvider: 0x600003755cb0> did fail with error: Error Domain=kCLErrorDomain Code=0 "(null)"
+2020-10-22 17:13:11.813142-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.825797-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.842935-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.859027-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.875861-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.892690-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.909435-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.925616-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.942176-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.959273-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.976074-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:11.992282-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.009523-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.202059-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.214529-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.231563-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.248099-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.265161-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.915027-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.931103-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.947872-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.964665-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.981348-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:12.997855-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.014824-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.032848-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.048861-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.065214-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.157035-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.169804-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.186676-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.204068-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.220908-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.237638-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.253074-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.270316-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.287261-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.303120-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.320660-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.336582-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.354295-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:13.369711-0700 DeliveryApp.iOS[49978:6402036] [VKDefault] Style Z is requested for an invisible rect
+2020-10-22 17:13:28.787908-0700 DeliveryApp.iOS[49978:6402036] [UILog] Called -[UIContextMenuInteraction updateVisibleMenuWithBlock:] while no context menu is visible. This won't do anything.
+2020-10-22 17:13:28.794372-0700 DeliveryApp.iOS[49978:6402036] WARNING: This app's CFBundleDevelopmentRegion is not a string value. This can lead to unexpected results at runtime. Please change CFBundleDevelopmentRegion in your Info.plist to a string value.

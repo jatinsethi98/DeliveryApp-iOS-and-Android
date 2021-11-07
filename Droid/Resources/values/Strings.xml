@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Click Me!</string>
+    <string name="app_name">DeliveryApp.Droid</string>
+    <string name="permission_location_rationale">We need your location to spy on you xD</string>
+ 	<string name="ok">Great! Spy on me.</string>
+</resources>

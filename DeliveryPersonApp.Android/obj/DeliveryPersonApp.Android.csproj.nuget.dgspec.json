@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/DeliveryPersonApp.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj",
+        "projectName": "DeliveryApp",
+        "projectPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj",
+        "packagesPath": "/Users/jatinsethi/.nuget/packages/",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "/Users/jatinsethi/.config/NuGet/NuGet.Config"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "portable45-net45+win8+wpa81": {
+            "projectReferences": {}
+          }
+        },
+        "packagesConfigPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/packages.config"
+      },
+      "frameworks": {
+        "portable45-net45+win8+wpa81": {}
+      }
+    },
+    "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/DeliveryPersonApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/DeliveryPersonApp.Android.csproj",
+        "projectName": "DeliveryPersonApp.Android",
+        "projectPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/DeliveryPersonApp.Android.csproj",
+        "packagesPath": "/Users/jatinsethi/.nuget/packages/",
+        "outputPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jatinsethi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj": {
+                "projectPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

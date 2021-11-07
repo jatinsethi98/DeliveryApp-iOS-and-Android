@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/DeliveryPersonApp.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj",
+        "projectName": "DeliveryApp",
+        "projectPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj",
+        "packagesPath": "/Users/jatinsethi/.nuget/packages/",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "/Users/jatinsethi/.config/NuGet/NuGet.Config"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "portable45-net45+win8+wpa81": {
+            "projectReferences": {}
+          }
+        },
+        "packagesConfigPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/packages.config"
+      },
+      "frameworks": {
+        "portable45-net45+win8+wpa81": {}
+      }
+    },
+    "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/DeliveryPersonApp.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/DeliveryPersonApp.iOS.csproj",
+        "projectName": "DeliveryPersonApp.iOS",
+        "projectPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/DeliveryPersonApp.iOS.csproj",
+        "packagesPath": "/Users/jatinsethi/.nuget/packages/",
+        "outputPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryPersonApp.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jatinsethi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj": {
+                "projectPath": "/Users/jatinsethi/Projects/DeliveryApp/DeliveryApp/DeliveryApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

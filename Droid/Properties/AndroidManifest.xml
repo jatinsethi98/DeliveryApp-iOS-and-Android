@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.sethi.deliveryapp">
+	<uses-sdk android:minSdkVersion="22" android:targetSdkVersion="29" />
+	<uses-feature android:glEsVersion="0x00020000" android:required="true" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+	<uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+	<uses-permission android:name="DeliveryApp.Android.permission.MAPS_RECEIVE" />
+	<permission android:name="deliveryApp.android.permission.MAPS_RECEIVE" android:protectionLevel="signature" />
+	<application android:label="DeliveryApp" android:theme="@style/Theme.AppCompat">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBUxVbzl03Xf7rnyMYeq5KkZFCWBfQz4Oc" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application>
+</manifest>
