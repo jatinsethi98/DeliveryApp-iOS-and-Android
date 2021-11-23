@@ -1,3 +1,3 @@
 # DeliveryApp
 
-This project contains 2 apps each for iOS and Android made using Xamarin. The first app is the client/user side app and the other one is a driver side app.
+Developed a cross-platform Delivery App with a separate app for Drivers(delivery personnel), using Xamarin, Azure Mobile App Services, SQLite databases, and the MVVM pattern. Experimented with Xamarin.Forms and Xamarin classic to finally settle with Xamarin classic with backed on Xamarin and native frontend for iOS and Android. Developed two apps for each platform that communicate across platforms. Added native maps support for iOS and Android so the driver app automatically starts navigation using Apple Maps, Google maps respectively. In order to make the experience for delivery even more engaging, allowed users to track the status of their order through the App. Finally, added push notifications for ease of use and a better user experience.
